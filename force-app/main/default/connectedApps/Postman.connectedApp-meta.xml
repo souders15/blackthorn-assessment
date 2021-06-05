@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>souders.15@gmail.com</contactEmail>
+    <label>Postman</label>
+    <oauthConfig>
+        <callbackUrl>https://blackthornio-7f-dev-ed.my.salesforce.com/services/oauth2/callback
+https://oauth.pstmn.io/v1/callback</callbackUrl>
+        <consumerKey>3MVG9cHH2bfKACZaBUrUnne89Mia2JnLo5XlfaVVXHR8B_LWTnakVlCTVHQuk11S5zUiahFdsGBV_inPAejo3</consumerKey>
+        <isAdminApproved>false</isAdminApproved>
+        <scopes>Api</scopes>
+    </oauthConfig>
+</ConnectedApp>
